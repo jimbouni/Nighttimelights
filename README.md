@@ -92,9 +92,7 @@ GEE script to download night time ligths data
 
 1. **Download** yearly GeoTIFFs.
 2. **Run** Use ArcGISPro to correct saturation and blooming.
-3. For further processing see (Li & Cao, 2023 ![image](https://github.com/user-attachments/assets/ae402b55-f96f-4236-8e96-66a676906d86)
-https://doi.org/10.1016/j.rse.2023.113741), ![image](https://github.com/user-attachments/assets/2648ae10-8654-4400-95f9-96bed010b718)
-
+3. For further processing see (Li & Cao, 2023) https://doi.org/10.1016/j.rse.2023.113741),
 ---
 
 
